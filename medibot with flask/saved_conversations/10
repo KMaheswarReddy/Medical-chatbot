@@ -1,0 +1,11 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hi
+bot : How are you?
+user : i am felling sick
+bot : Hello
+user : fever
+bot : How are you?
+user : hi
+bot : How are you?
+user : not fine
+bot : Hi
